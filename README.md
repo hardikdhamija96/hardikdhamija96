@@ -28,6 +28,10 @@
 
 ## 📌 Featured Projects
 
+### 🔹 [AI Buddy — YouTube Notes Agent](https://github.com/hardikdhamija96/youtube-ai-buddy)
+📺 Turns any YouTube video into study notes you can read instead of watching — summary, glossary, per-section notes with comparison tables, and a quiz, all streamed live as a single agentic pipeline generates them
+🛠️ Tools: FastAPI, SQLite, OpenAI (streaming), Docker, vanilla JS
+
 ### 🔹 [Aerofit Business Case Study](https://github.com/hardikdhamija96/AeroFit)
 📊 Targeted customer profiling for a fitness brand using EDA & statistical analysis
 🛠️ Tools: Python, Pandas, Power BI, Statistical Profiling
@@ -40,7 +44,7 @@
 
 ## 🚀 Currently Sharpening
 - Analytics engineering with BigQuery + dbt
-- Agentic AI / LLM-powered automation (job agents, content agents, YouTube notes generator)
+- Agentic AI / LLM-powered automation (job agents, content agents)
 - AI engineering fundamentals via a dedicated upskilling cohort
 
 ---
